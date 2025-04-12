@@ -5,12 +5,6 @@ This project processes accelerometer and gyroscope data from the MetaMotion sens
 
 ---
 
-## Tutorial Reference
-This project follows the tutorial available on YouTube: [Barbell Exercise Classification and Rep Counting Tutorial](https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K)
-It is one of the best tutorials with clear explanations and minimal bugs that can be easily fixed. 
-
----
-
 ## Table of Contents
 1. [Introduction, Goal, and Dataset](#introduction-goal-and-dataset)
 2. [Converting Raw Data, Reading CSV Files, Splitting Data, Cleaning](#converting-raw-data-reading-csv-files-splitting-data-cleaning)
@@ -70,3 +64,7 @@ It is one of the best tutorials with clear explanations and minimal bugs that ca
 - Fine-tune the algorithm for accuracy in real-time applications.
 
 ---
+
+## Tutorial Reference
+This project follows the tutorial available on YouTube: [Barbell Exercise Classification and Rep Counting Tutorial](https://www.youtube.com/watch?v=cCONIdrM2VI&list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K)
+It is one of the best tutorials with clear explanations and minimal bugs that can be easily fixed. 
